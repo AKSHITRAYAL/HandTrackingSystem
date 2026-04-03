@@ -1,4 +1,4 @@
-<head>Hand Tracking Module</head>
+<head><h1>Hand Tracking Module</h1></head>
 <h2>This is a learnign step and not a real project...</h2>
 <list>
 This is a basic Hand Tracking System using OpenCV and mediapipe.
